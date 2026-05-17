@@ -1,7 +1,7 @@
 site_name: Range WebAR Exporter
 site_description: Blender addon to export Range Engine scenes to WebAR with Three.js and WebXR
 site_author: Salvador Mata (Mataii)
-site_url: https://mataiie.github.io/range-webar-docs/
+site_url: https://mataii.github.io/range-webar-docs/
 
 repo_name: range-webar-exporter
 repo_url: https://github.com/mataii/range-webar-exporter
