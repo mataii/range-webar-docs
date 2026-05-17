@@ -4,7 +4,7 @@ site_author: Salvador Mata (Mataii)
 site_url: https://mataiie.github.io/range-webar-docs/
 
 repo_name: range-webar-exporter
-repo_url: https://github.com/your-username/range-webar-exporter
+repo_url: https://github.com/mataii/range-webar-exporter
 
 theme:
   name: material
@@ -84,7 +84,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-username
+      link: https://github.com/mataii
     - icon: fontawesome/solid/globe
       link: https://salvador.mata.com.mx
 
